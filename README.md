@@ -24,8 +24,8 @@ As an **open-minded** and **fast learner**, I'm constantly experimenting with ne
 
 ## 🌟 Future Goals and Learning Path
 I’m always looking to expand my knowledge and skills. Here are some areas I plan to explore:
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,mysql,vue,cpp,azure,unity,unreal&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,mysql,vue,cpp,azure&theme=dark)](https://skillicons.dev)
 
 ---
 
