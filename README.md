@@ -15,7 +15,7 @@ As an **open-minded** and **fast learner**, I'm constantly experimenting with ne
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark)](https://skillicons.dev)
 
 ### **Backend and Other Projects**
-[![My Skills](https://skillicons.dev/icons?i=python,cs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,cs&theme=dark)](https://skillicons.dev)
 
 ### **Tools I Use**
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark)](https://skillicons.dev)
