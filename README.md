@@ -51,7 +51,7 @@ I’m constantly expanding my knowledge in different technologies. Some areas I 
         <img src="https://github-readme-stats.vercel.app/api?username=skaikru0518&show_icons=true&theme=tokyonight" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaikru0518&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaikru0518&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=donut" />
     </a>
 </div>
 
