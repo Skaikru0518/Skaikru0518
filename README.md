@@ -54,6 +54,8 @@ I’m constantly expanding my knowledge in different technologies. Some areas I 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaikru0518&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=donut" />
     </a>
 </div>
+<!--[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=skaikru0518)](https://wakatime.com/) !-->
+
 
 ---
 
@@ -69,4 +71,5 @@ Feel free to reach out—let's collaborate!
 [![Discord](https://img.shields.io/badge/Discord-Skaikru_%230518-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/skaikru_)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/péter-dobi-917347160)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skaikru0518)  
+
 
