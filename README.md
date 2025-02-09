@@ -67,6 +67,6 @@ Feel free to reach out—let's collaborate!
 
 
 [![Discord](https://img.shields.io/badge/Discord-Skaikru_%230518-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/skaikru_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/péter-dobi-917347160)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skaikru0518)  
 
