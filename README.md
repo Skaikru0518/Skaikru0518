@@ -88,7 +88,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.discord.gg/users/skaikru_" target="_blank">
+  <a href="https://www.discord.com/users/skaikru_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Skaikru_&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.twitch.tv/ska1kru_" target="_blank">
