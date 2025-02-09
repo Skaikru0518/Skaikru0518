@@ -8,7 +8,7 @@ I’m drawn to modern, minimalistic designs that are both visually stunning and 
 As an **open-minded** and **fast learner**, I'm constantly experimenting with new tools and techniques. Let’s create something extraordinary together! 🚀
 
 ---
-
+<!--
 ## 🖥️ Technologies I Use
 
 ### **Frontend**
@@ -19,6 +19,15 @@ As an **open-minded** and **fast learner**, I'm constantly experimenting with ne
 
 ### **Tools I Use**
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark)](https://skillicons.dev)
+!-->
+
+## 🖥️ Technologies I Use
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark" alt="Frontend" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,cs&theme=dark" alt="Backend & Other" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" alt="Tools" />
+</div>
 
 ---
 
@@ -31,13 +40,24 @@ I’m always looking to expand my knowledge and skills. Here are some areas I pl
 
 ## 📊 My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skaikru0518&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=skaikru0518&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skaikru0518&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  !-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaikru0518&theme=tokyonight&size_weight=0.5&count_weight=0.5)
 
+<!--
+## 📊 GitHub Stats
+
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 10px;">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=skaikru0518&show_icons=true&theme=tokyonight" />
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaikru0518&theme=tokyonight&size_weight=0.5&count_weight=0.5" />
+</div>
+!-->
 ---
 
 ## 📨 Contact Me
 
 Feel free to reach out—let’s connect and collaborate!  
+
 ### **Discord**:  
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com)
