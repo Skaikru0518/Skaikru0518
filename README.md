@@ -60,4 +60,4 @@ I’m always looking to expand my knowledge and skills. Here are some areas I pl
 Feel free to reach out—let’s connect and collaborate!  
 
 ### **Discord**:  
-[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com)
+[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/skaikru_)
