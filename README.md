@@ -1,75 +1,113 @@
-# Hi there, I'm Skaikru_ / Dante0518 👋
+<h1 align="left">👋Hi there, I'm Skaikru</h1>
 
-👨‍💻 **About Me**  
-I'm on an exciting journey into **full-stack development**, starting with frontend technologies.  
-For me, programming isn't just a skill—it's both a passion and a creative outlet.
+###
 
----
+<h3 align="left">👨‍💻 About Me</h3>
 
-## 🛠️ Technologies I Use  
+###
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,python,cs,electron,vscode,visualstudio&theme=dark" />
+<p align="left">I'm on an exciting journey into full-stack development, starting with frontend technologies.<br>For me, programming isn't just a skill—it's both a passion and a creative outlet.</p>
+
+###
+
+<h3 align="left">🛠️ Technologies I Use</h3>
+
+###
+
+<p align="left">Frontend</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
 </div>
 
+###
 
-<!--
-## 🖥️ Technologies I Use
+<p align="left">Backend</p>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,electron&theme=dark" alt="Frontend" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,cs&theme=dark" alt="Backend & Other" />
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" alt="Tools" />
-</div>
-!-->
----
+###
 
-## 🌟 Future Goals and Learning Path  
-I’m constantly expanding my knowledge in different technologies. Some areas I plan to dive deeper into:  
-
-✅ **Frontend Frameworks**: Next.js, Angular, Vue.js  
-✅ **Backend & Databases**: MySQL, Firebase, Cloud Functions  
-✅ **Game Development**: Unity, Unreal Engine  
-✅ **Cloud & DevOps**: Azure, Docker, Kubernetes  
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=next,angular,ts,mysql,vue,cpp,azure,unity,unreal&theme=dark" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
 </div>
 
+###
 
----
-<!--
-## 📊 My GitHub Stats
+<h2 align="left">🌟 Future Goals and Learning Path</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skaikru0518&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skaikru0518&theme=tokyonight&size_weight=0.5&count_weight=0.5)!-->
+###
 
-## 📊 GitHub Stats
+<p align="left">I’m constantly expanding my knowledge in different technologies. Some areas I plan to dive deeper into:<br><br>✅ Frontend Frameworks: Next.js, Angular, Vue.js<br>✅ Backend & Databases: MySQL, Firebase, Cloud Functions<br>✅ Game Development: Unity, Unreal Engine<br>✅ Cloud & DevOps: Azure, Docker</p>
+
+###
 
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=skaikru0518&show_icons=true&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaikru0518&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=donut" />
-    </a>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
 </div>
 
-<!--
-!-->
----
+###
 
-## 📩 Connect With Me  
-Feel free to reach out—let's collaborate!  
-<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skaikru0518&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=skaikru0518&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="150" alt="streak graph"  />
+</div>
 
-### **Discord**:  
-[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/skaikru_)
-!-->
+###
 
+<h2 align="left">📩 Connect With Me</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-Skaikru_%230518-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/skaikru_)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/péter-dobi-917347160)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skaikru0518)  
+###
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=skaikru0518)](https://wakatime.com/) 
+<p align="left">Feel free to reach out—let's collaborate!</p>
+
+###
+
+<div align="left">
+  <a href="discord.gg/users/skaikru_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Skaikru_&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="twitch.tv/ska1kru_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
+  </a>
+  <a href="mailto:dante0518@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/p%C3%A9ter-dobi-917347160/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/skaikru0518/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/skaikru0518/skaikru0518/output/snake.svg" alt="Snake animation" />
+
+###
