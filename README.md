@@ -87,7 +87,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="discord.gg/users/skaikru_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Skaikru_&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
