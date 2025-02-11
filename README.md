@@ -13,9 +13,9 @@
 <h3 align="left">🛠️ Technologies I Use</h3>
 
 ###
-
+<!--
 <p align="left">Frontend</p>
-
+-->
 ###
 
 <div align="left">
@@ -33,9 +33,9 @@
 </div>
 
 ###
-
+<!--
 <p align="left">Backend</p>
-
+-->
 ###
 
 <div align="left">
@@ -46,6 +46,8 @@
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
 </div>
 
 ###
@@ -54,7 +56,7 @@
 
 ###
 
-<p align="left">I’m constantly expanding my knowledge in different technologies. Some areas I plan to dive deeper into:<br><br>✅ Frontend Frameworks: Next.js, Angular, Vue.js<br>✅ Backend & Databases: MySQL, Firebase, Cloud Functions<br>✅ Game Development: Unity, Unreal Engine<br>✅ Cloud & DevOps: Azure, Docker</p>
+<p align="left">I’m constantly expanding my knowledge in different technologies. Some areas I plan to dive deeper into:<br><br>✅ Frontend Frameworks: Next.js, Angular, Vue.js<br>✅ Backend & Databases: MySQL, Firebase, Cloud Functions<br>✅ Game Development: Unity, Unreal Engine<br>✅ Mobile Development: Apple, Android</p>
 
 ###
 
