@@ -81,6 +81,12 @@
 
 ###
 
+## 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+###
+
 <h2 align="left">📩 Connect With Me</h2>
 
 ###
@@ -115,3 +121,6 @@
 <img src="https://raw.githubusercontent.com/skaikru0518/skaikru0518/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
