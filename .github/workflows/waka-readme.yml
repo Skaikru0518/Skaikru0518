@@ -34,5 +34,5 @@ jobs:
           SHOW_TOTAL: true # Show total coding time
           SHOW_MASKED_TIME: true # Hide exact time values
           STOP_AT_OTHER: true # Stop listing at 'Other' category
-          IGNORED_LANGUAGES: YML, Git, BASH, Bash, bash
+          IGNORED_LANGUAGES: YML Git Bash
 
