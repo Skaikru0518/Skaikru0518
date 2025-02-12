@@ -26,18 +26,13 @@ jobs:
           REPOSITORY: Skaikru0518/Skaikru0518
           
           # Visual settings
-          BLOCKS: ░▒▓█  # Custom bar characters
+          BLOCKS: =>  # Custom bar characters
           CODE_LANG: txt # Code block style (txt, md, json)
           TIME_RANGE: last_7_days # Options: last_7_days, last_30_days, last_year, all_time
           LANG_COUNT: 5 # Number of languages to show
           SHOW_TIME: true # Show time spent
-          SHOW_TOTAL: false # Show total coding time
+          SHOW_TOTAL: true # Show total coding time
           SHOW_MASKED_TIME: false # Hide exact time values
           STOP_AT_OTHER: false # Stop listing at 'Other' category
-          
-          # Commit settings
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics
-          TARGET_BRANCH: main
-          TARGET_PATH: README.md
-          COMMITTER_NAME: Skaikru0518
-          COMMITTER_EMAIL: your-email@example.com
+          IGNORED_LANUGAGES: BASH, YML, Git
+
