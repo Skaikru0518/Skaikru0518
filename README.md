@@ -90,8 +90,7 @@ From: 04 February 2025 - To: 11 February 2025
 Total Time: 36 mins
 
 JavaScript   22 mins         >>>>>>>>>>>>>>>==========   61.17 %
-Git          8 mins          >>>>>>===================   22.26 %
-Bash         5 mins          >>>>=====================   14.05 %
+Other        0 secs          =========================   01.87 %
 ```
 
 <!--END_SECTION:waka-->
