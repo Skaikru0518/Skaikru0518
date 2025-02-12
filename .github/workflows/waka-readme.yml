@@ -27,12 +27,12 @@ jobs:
           
           # Visual settings
           BLOCKS: =>  # Custom bar characters
-          CODE_LANG: txt # Code block style (txt, md, json)
-          TIME_RANGE: last_7_days # Options: last_7_days, last_30_days, last_year, all_time
-          LANG_COUNT: 5 # Number of languages to show
+          CODE_LANG: json # Code block style (txt, md, json)
+          TIME_RANGE: last_30_days # Options: last_7_days, last_30_days, last_year, all_time
+          LANG_COUNT: 3 # Number of languages to show
           SHOW_TIME: true # Show time spent
           SHOW_TOTAL: true # Show total coding time
-          SHOW_MASKED_TIME: false # Hide exact time values
-          STOP_AT_OTHER: false # Stop listing at 'Other' category
+          SHOW_MASKED_TIME: true # Hide exact time values
+          STOP_AT_OTHER: true # Stop listing at 'Other' category
           IGNORED_LANGUAGES: Bash, YML, Git
 
