@@ -33,6 +33,6 @@ jobs:
           SHOW_TIME: true # Show time spent
           SHOW_TOTAL: true # Show total coding time
           SHOW_MASKED_TIME: true # Hide exact time values
-          STOP_AT_OTHER: true # Stop listing at 'Other' category
+          STOP_AT_OTHER: false # Stop listing at 'Other' category
           IGNORED_LANGUAGES: YML Git Bash
 
