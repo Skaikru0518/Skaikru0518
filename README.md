@@ -85,12 +85,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 February 2025 - To: 12 February 2025
+From: 06 February 2025 - To: 13 February 2025
 
-Total Time: 2 hrs 57 mins
+Total Time: 8 hrs 42 mins
 
-JavaScript   2 hrs 43 mins   >>>>>>>>>>>>>>>>>>>>>>>==   92.06 %
-Other        0 secs          =========================   00.38 %
+JavaScript   8 hrs           >>>>>>>>>>>>>>>>>>>>>>>==   92.00 %
+JSON         12 mins         >========================   02.37 %
+Other        9 mins          =========================   01.84 %
 ```
 
 <!--END_SECTION:waka-->
