@@ -88,13 +88,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 April 2025 - To: 11 April 2025
+From: 05 April 2025 - To: 12 April 2025
 
-Total Time: 23 hrs 7 mins
+Total Time: 19 hrs
 
-JavaScript       20 hrs 23 mins  >>>>>>>>>>>>>>>>>>>>>>===   88.16 %
-Python           1 hr 9 mins     >========================   05.03 %
-JSON             23 mins         =========================   01.71 %
+JavaScript       16 hrs 26 mins  >>>>>>>>>>>>>>>>>>>>>>===   86.47 %
+Python           1 hr 9 mins     >>=======================   06.12 %
+JSON             23 mins         >========================   02.06 %
 ```
 
 <!--END_SECTION:waka-->
