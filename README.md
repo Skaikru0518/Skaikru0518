@@ -95,6 +95,7 @@ Total Time: 28 hrs 58 mins
 JavaScript   14 hrs 40 mins  >>>>>>>>>>>>>============   50.64 %
 Python       5 hrs 22 mins   >>>>>====================   18.57 %
 HTML         2 hrs 30 mins   >>=======================   08.66 %
+TypeScript   2 hrs 6 mins    >>=======================   07.27 %
 ```
 
 <!--END_SECTION:waka-->
