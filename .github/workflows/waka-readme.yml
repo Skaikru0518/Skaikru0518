@@ -29,7 +29,7 @@ jobs:
           BLOCKS: =>  # Custom bar characters
           CODE_LANG: text # Code block style (txt, md, json)
           TIME_RANGE: last_7_days # Options: last_7_days, last_30_days, last_year, all_time
-          LANG_COUNT: 3 # Number of languages to show
+          LANG_COUNT: 4 # Number of languages to show
           SHOW_TIME: true # Show time spent
           SHOW_TOTAL: true # Show total coding time
           SHOW_MASKED_TIME: true # Hide exact time values
