@@ -88,14 +88,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 May 2025 - To: 09 May 2025
+From: 03 May 2025 - To: 10 May 2025
 
-Total Time: 15 hrs 56 mins
+Total Time: 16 hrs 10 mins
 
-JavaScript        7 hrs 9 mins    >>>>>>>>>>>==============   44.90 %
-XML               4 hrs 6 mins    >>>>>>===================   25.73 %
-Kotlin            2 hrs 58 mins   >>>>>====================   18.62 %
-JSON              20 mins         >========================   02.10 %
+JavaScript                         7 hrs 59 mins   >>>>>>>>>>>>=============   49.41 %
+XML                                3 hrs 46 mins   >>>>>>===================   23.38 %
+Kotlin                             2 hrs 45 mins   >>>>=====================   17.00 %
+JSON                               20 mins         >========================   02.07 %
 ```
 
 <!--END_SECTION:waka-->
