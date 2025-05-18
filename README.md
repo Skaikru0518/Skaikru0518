@@ -88,14 +88,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 May 2025 - To: 16 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
-Total Time: 8 hrs 11 mins
+Total Time: 8 hrs 34 mins
 
-JavaScript                         3 hrs 33 mins   >>>>>>>>>>>==============   43.50 %
-XML                                1 hr 9 mins     >>>>=====================   14.12 %
-Java                               58 mins         >>>======================   11.88 %
-Prisma                             52 mins         >>>======================   10.76 %
+JavaScript       2 hrs 43 mins   >>>>>>>>=================   31.82 %
+Java             2 hrs 14 mins   >>>>>>>==================   26.09 %
+XML              1 hr 14 mins    >>>>=====================   14.42 %
+Prisma           52 mins         >>>======================   10.29 %
 ```
 
 <!--END_SECTION:waka-->
