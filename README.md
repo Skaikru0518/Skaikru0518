@@ -88,14 +88,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2025 - To: 23 May 2025
+From: 17 May 2025 - To: 24 May 2025
 
-Total Time: 13 hrs 34 mins
+Total Time: 14 hrs 42 mins
 
-JavaScript   5 hrs 10 mins   >>>>>>>>>>===============   38.09 %
-Python       3 hrs 28 mins   >>>>>>===================   25.61 %
-HTML         2 hrs 38 mins   >>>>>====================   19.42 %
-Java         1 hr 23 mins    >>>======================   10.23 %
+JavaScript   6 hrs 11 mins   >>>>>>>>>>>==============   42.13 %
+Python       4 hrs 34 mins   >>>>>>>>=================   31.08 %
+HTML         2 hrs 59 mins   >>>>>====================   20.38 %
+CSS          24 mins         >========================   02.77 %
 ```
 
 <!--END_SECTION:waka-->
