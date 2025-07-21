@@ -21,7 +21,7 @@ I’m a passionate fullstack developer with a strong backend focus and ~1.5 year
 - Backend is the engine — make it fast, secure, and scalable.
 
 ### 📦 Featured Projects
-- 💰 **[Crypto Trader App](https://github.com/bybit-electron-app)** – Real-time trading and balance tracking using the Bybit API (Node.js + C#)
+- 💰 **[Crypto Trader App](https://github.com/Skaikru0518/bybit-electron-app)** – Real-time trading and balance tracking using the Bybit API (Electron + React) // also made similar in C#
 - 💸 **[Expense Tracker](https://expense-tracker-1rww.onrender.com)** – Fullstack app to manage expenses with React + Express + MongoDB
 
 ### 🎯 Goals
