@@ -22,7 +22,8 @@ I’m a passionate fullstack developer with a strong backend focus and ~1.5 year
 
 ### 📦 Featured Projects
 - 💰 **[Crypto Trader App](https://github.com/Skaikru0518/bybit-electron-app)** – Real-time trading and balance tracking using the Bybit API (Electron + React) // also made similar in C#
-- 💸 **[Expense Tracker](https://expense-tracker-1rww.onrender.com)** – Fullstack app to manage expenses with React + Express + MongoDB
+- 💸 **[Expense Tracker](https://github.com/Skaikru0518/expense-tracker)** – Fullstack app to manage expenses with React + Express + MongoDB
+- 🧮 **[Crypto Calculator](https://github.com/Skaikru0518/CryptoCalculator)** – A C# .NET app for quick crypto calculations
 
 ### 🎯 Goals
 - **Get a Fullstack Developer job** 🚀
@@ -67,3 +68,4 @@ CSS          15 mins         =========================   01.26 %
 <!--END_SECTION:waka-->
 
 <img src="https://raw.githubusercontent.com/skaikru0518/skaikru0518/output/snake.svg" alt="Snake animation" />
+
