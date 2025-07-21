@@ -1,85 +1,52 @@
-<h1 align="left">👋Hi there, I'm Skaikru</h1>
+# 👋 Hey, I'm Skaikru_
 
-###
+Fullstack developer with a strong backend focus.  
+I’m a passionate fullstack developer with a strong backend focus and ~1.5 years of hands-on, daily coding experience. I enjoy building real-world apps from scratch that solve real problems — especially in the backend and financial/crypto domains.
 
-<h3 align="left">👨‍💻 About Me</h3>
+### 🛠️ Tech Stack
+- **Languages**: JavaScript, C#
+- **Backend**: Node.js, Express.js, REST APIs, MySQL, MongoDB
+- **Frontend**: React, Tailwind CSS, Next.js
+- **Desktop**: Electron, WPF (C#)
+- **Auth**: JWT, sessions, Next Auth
 
-###
+### 🔧 What I enjoy building
+- Clean code
+- Backend-heavy web apps
+- Fullstack tools with clean APIs and real-time data
+- Crypto & finance-related projects
 
-<p align="left">I'm on an exciting journey into full-stack development, starting with frontend technologies.<br>For me, programming isn't just a skill—it's both a passion and a creative outlet.</p>
+### 🌐 My Philosophy
+- Code should be clean, tested, and meaningful.
+- Prefer building something useful over something flashy.
+- Backend is the engine — make it fast, secure, and scalable.
 
-###
+### 📦 Featured Projects
+- 💰 **[Crypto Trader App](https://github.com/bybit-electron-app)** – Real-time trading and balance tracking using the Bybit API (Node.js + C#)
+- 💸 **[Expense Tracker](https://expense-tracker-1rww.onrender.com)** – Fullstack app to manage expenses with React + Express + MongoDB
 
-<h3 align="left">🛠️ Technologies I Use</h3>
+### 🎯 Goals
+- **Get a Fullstack Developer job** 🚀
+- Learn **Kotlin**, **TypeScript**, and **NestJS**
+- Build smarter tools & services
 
-###
-<!--
-<p align="left">Frontend</p>
--->
-###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-</div>
+---
 
-###
-<!--
-<p align="left">Backend</p>
--->
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongo" height="40" alt="react logo"  />
-</div>
-
-###
-
-<h2 align="left">🌟 Future Goals and Learning Path</h2>
-
-###
-
-<p align="left">I’m constantly expanding my knowledge in different technologies. Some areas I plan to dive deeper into:<br><br>✅ Frontend Frameworks: Next.js, Angular, Vue.js<br>✅ Backend & Databases: MySQL, Firebase, Cloud Functions<br>✅ Game Development: Unity, Unreal Engine<br>✅ Mobile Development: Apple, Android</p>
-
-###
-
+### 💬 Contact
 <div align="center">
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skaikru0518&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2&hide_progress=true" height="150" alt="languages graph"  />
-<!-- <img src="https://streak-stats.demolab.com?user=skaikru0518&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j&order=3" height="150" alt="streak graph"  /> !-->
+  <a href="https://www.discord.com/users/skaikru_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Skaikru_&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.twitch.tv/ska1kru_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
+  </a>
+  <a href="mailto:dante0518@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/p%C3%A9ter-dobi-917347160/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
@@ -100,41 +67,4 @@ CSS          15 mins         =========================   01.26 %
 
 <!--END_SECTION:waka-->
 
-###
-
-<h2 align="left">📩 Connect With Me</h2>
-
-###
-
-<p align="left">Feel free to reach out—let's collaborate!</p>
-
-###
-
-<div align="center">
-  <a href="https://www.discord.com/users/skaikru_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Skaikru_&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.twitch.tv/ska1kru_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo"  />
-  </a>
-  <a href="mailto:dante0518@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/p%C3%A9ter-dobi-917347160/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/skaikru0518/count.svg?"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/skaikru0518/skaikru0518/output/snake.svg" alt="Snake animation" />
-
-###
-
-
