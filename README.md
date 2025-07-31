@@ -3,7 +3,7 @@
 I’m a passionate fullstack developer with a strong backend focus and ~1.5 years of hands-on, daily coding experience. I enjoy building real-world apps from scratch that solve real problems — especially in the backend and financial/crypto domains.
 
 ### 🛠️ Tech Stack
-- **Languages**: JavaScript, C#
+- **Languages**: JavaScript, TypeScript, C#
 - **Backend**: Node.js, Express.js, REST APIs, MySQL, MongoDB
 - **Frontend**: React, Tailwind CSS, Next.js
 - **Desktop**: Electron, WPF (C#)
