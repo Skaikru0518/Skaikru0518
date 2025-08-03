@@ -67,5 +67,13 @@ TSConfig     7 mins          =========================   00.59 %
 
 <!--END_SECTION:waka-->
 
-<img src="https://raw.githubusercontent.com/skaikru0518/skaikru0518/output/snake.svg" alt="Snake animation" />
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/skaikru0518/skaikru0518/output/snake.svg" alt="Snake animation" />
+</p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=skaikru0518.visitor-badge" alt="visitor badge" />
+</p>
+
 
