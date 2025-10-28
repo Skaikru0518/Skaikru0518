@@ -55,13 +55,13 @@ I’m a passionate fullstack developer with a strong backend focus and ~1.5 year
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 October 2025 - To: 26 October 2025
+From: 20 October 2025 - To: 27 October 2025
 
-Total Time: 16 hrs 17 mins
+Total Time: 14 hrs 9 mins
 
-TypeScript                 6 hrs 4 mins    >>>>>>>>>================   37.24 %
-JSON                       2 hrs 54 mins   >>>>=====================   17.84 %
-Docker                     1 hr 17 mins    >>=======================   07.96 %
+TypeScript                 5 hrs 37 mins   >>>>>>>>>>===============   39.76 %
+JSON                       2 hrs 36 mins   >>>>>====================   18.39 %
+Other                      1 hr 3 mins     >>=======================   07.47 %
 ```
 
 <!--END_SECTION:waka-->
