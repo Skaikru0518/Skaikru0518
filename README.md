@@ -1,5 +1,3 @@
-# Hi, Skaikru
-
 I'm a fullstack developer with a backend-focused mindset. I currently work at [Vandslab](https://vandslab.com) as a Fullstack Developer, building practical applications with clean architecture, solid APIs, and maintainable code.
 
 ## Tech Stack
