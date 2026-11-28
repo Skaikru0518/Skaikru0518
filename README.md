@@ -1,21 +1,21 @@
-I'm a fullstack developer with a backend-focused mindset. I currently work at [Vandslab](https://vandslab.com) as a Fullstack Developer, building practical applications with clean architecture, solid APIs, and maintainable code.
+I'm a fullstack developer with a backend-first mindset, working at [Vandslab](https://vandslab.com). I build practical apps with clean architecture, solid APIs and code that's still pleasant to touch a year later.
 
 ## Tech Stack
 
-- Frontend: Next.js, React, TypeScript
-- Backend: Express, NestJS
-- Database: PostgreSQL
-- ORM: Prisma
-- Desktop: Electron
-- Other: C#
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Mobile:** React Native (Expo)
+- **Backend:** NestJS, Express
+- **Database:** PostgreSQL, Prisma
+- **Desktop:** Electron
+- **Infra:** Docker, k3s, Turborepo monorepos
+- **Other:** C#, C++
 
-## Focus
+## What I'm working on
 
-- Fullstack web applications
-- Backend systems and APIs
-- Desktop applications
-- Practical tools with real-world use cases
-
+- **Product work at Vandslab** — [See our site](https://vandslab.com)
+- **Keyboard firmware hacking** — reverse-engineering a mechanical keyboard's firmware (Ghidra, ARM Cortex-M) to add custom lighting effects, plus Electron tools to configure and flash it
+- **[Lagoon](https://marketplace.visualstudio.com/items?itemName=PeterDobi.lagoon-dive-night)** | **[Lagoon Visual Studio](https://marketplace.visualstudio.com/items?itemName=PeterDobi.lagoon-dive-night-vs)**
+ — a low-contrast teal/lavender color theme for VS Code, Visual Studio and JetBrains IDEs; 
 ## Contact
 
 <div align="center">
@@ -25,9 +25,6 @@ I'm a fullstack developer with a backend-focused mindset. I currently work at [V
   <a href="https://www.twitch.tv/ska1kru_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitch logo" />
   </a>
-  <a href="mailto:dante0518@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
-  </a>
   <a href="https://www.linkedin.com/in/p%C3%A9ter-dobi-917347160/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
@@ -35,15 +32,6 @@ I'm a fullstack developer with a backend-focused mindset. I currently work at [V
 
 ## Weekly development breakdown
 <!--START_SECTION:waka-->
-
-```text
-From: 24 October 2026 - To: 31 October 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 <p align="center">
